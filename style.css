@@ -1,0 +1,22 @@
+h1, footer {
+	font-family: Lobster, Monospace;
+}
+footer {
+	font-size: 30px; 
+}
+.main-container {
+	margin: 30px 30px 30px 30px;
+	border-radius: 10px;
+}
+.oprah-image {
+	margin: 10px 10px;
+	border-radius: 10px;
+}
+.image {
+	margin: 20px 10px 5px 0px;
+	border-radius: 10px;
+	width: 100%;
+}
+#title {
+	color:#800000;
+}
